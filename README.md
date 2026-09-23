@@ -119,5 +119,3 @@ Hi there! I'm **Gaurav Singh Pawar**, a Full Stack Developer with **4+ years of 
 
 
 ---
-
-> “First, solve the problem. Then, write the code.” – John Johnson
