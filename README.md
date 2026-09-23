@@ -1,1 +1,124 @@
-👨‍💻 Gaurav Singh Pawar — Full Stack Developer PortfolioHi there! I'm Gaurav Singh Pawar, a Full Stack Developer with 4+ years of experience designing, building, and maintaining high-availability enterprise applications, contact center CRMs, real-time systems, and data analytics engines. I specialize in scalable backend architectures, real-time WebSocket communication, and responsive frontend interfaces.   🧠 Skills & TechnologiesBackend Development: Node.js, Express.js, PHP, CodeIgniter, RESTful APIs, SOAP APIs, Microservices Architecture   Frontend Development: Angular, JavaScript (ES6+), React.js, jQuery, AJAX, HTML5, CSS3, Bootstrap, Tailwind CSS   Databases & Caching: MySQL, Microsoft SQL Server, PostgreSQL, Redis, Query Optimization, Dynamic SQL, Stored Procedures   Real-Time & Telephony: WebSocket Protocol, Socket.io, WebRTC, VoIP, Contact Center CRMs, Omnichannel Integration   DevOps & Infrastructure: Git, GitHub, Jenkins, CI/CD Pipelines, Linux Server Administration, Docker, Nginx   Security & Quality: VAPT Support & Remediation, Postman, Debugging, Unit Testing, Agile/Scrum Methodologies   📁 Projects1. 📞 SanCCS – Enterprise Contact Center CRM (Agent & Admin Portals)Goal: Build an enterprise Contact Center CRM supporting real-time agent operations, administrative controls, and multi-channel customer interactions.   Tech Stack: Node.js, PHP, Angular, JavaScript, WebSockets, MySQL, SQL Server, Linux   Engineered full-stack web applications supporting live agent operations and admin portals   Implemented WebSocket-based real-time communication for sub-second event synchronization   Unified 8+ omnichannel communication portals including WhatsApp, Facebook, Viber, Web Chat, and video co-browsing   Hardened system security through VAPT testing and automated production deployments on Linux via Jenkins CI/CD   🔗 View GitHub Profile   2. 🔑 ManageCRM – Software License Management PlatformGoal: Architect a centralized CRM system to control software activations, licensing validity, tenant configurations, and customer records.   Tech Stack: Node.js, PHP, Angular, MySQL, RESTful APIs   Built full-stack software license management capabilities for Contact Center and TMS solutions   Consolidated customer deployment records, product entitlements, and license allocation rules   Developed central administrative controls to streamline software product lifecycles   🔗 View GitHub Profile   3. 📊 CDR-Spectra – Call Detail Record (CDR) Analytics & Reporting EngineGoal: Build a high-throughput reporting and analytics engine for processing large-scale telecommunication data.   Tech Stack: Node.js, PHP, MySQL, PostgreSQL, SQL Server   Processed complex call datasets to deliver real-time call analytics and interactive executive dashboards   Optimized SQL queries and multi-table joins, significantly improving execution speed on large datasets   Designed configurable reporting modules featuring advanced filtering options and automated exports (PDF/Excel)   🔗 View GitHub Profile   🏅 Key Strengths & Technical FocusEnd-to-End System Architecture: Designing scalable, high-availability web systems and RESTful/SOAP APIs   Real-Time Messaging: Sub-second event synchronization using WebSocket protocols   Database Performance Tuning: Relational database schema design, indexing, and complex SQL query optimization   Security & DevOps Reliability: VAPT security remediation, Linux server administration, and CI/CD release automation   📬 Let's Connect!📧 Email: Gauravpawar1115@gmail.com   📱 Phone: +91 7290925354   📍 Location: Gurgaon, Haryana, India   💼 LinkedIn: linkedin.com/in/gauravspawar   🐙 GitHub: github.com/gauravspawar   “First, solve the problem. Then, write the code.” – John Johnson
+# 👨‍💻 GAURAV SINGH PAWAR - Full Stack Developer Portfolio
+
+Hi there! I'm **Gaurav Singh Pawar**, a Full Stack Developer with **4+ years of experience** designing, building, and maintaining enterprise applications, contact center solutions, and CRM platforms across the entire development lifecycle. I specialize in building high-availability backend architectures, real-time WebSocket applications, and responsive frontend interfaces.
+
+---
+
+## 🧠 Skills & Technologies
+
+* **Languages**: JavaScript, TypeScript, PHP, Node.js, SQL, HTML5, CSS3
+
+
+* **Frameworks & Libraries**: Angular, Express.js, CodeIgniter, React.js, jQuery, Bootstrap, Tailwind CSS, AJAX
+
+
+* **Databases & Caching**: MySQL, Microsoft SQL Server, PostgreSQL, Redis
+
+
+* **Tools & DevOps**: Git, Jenkins, CI/CD, Linux Server Administration, Docker, Postman, Jira, Agile
+
+
+* **Concepts**: System Design & Architecture, RESTful APIs, SOAP APIs, WebSocket Protocol, VoIP, Omnichannel Integration, VAPT Security, Database Query Optimization
+
+
+
+---
+
+## 📁 Projects
+
+### 1. 📞 SanCCS – Contact Center CRM (Agent & Admin Portal)
+
+**Goal**: Build an enterprise Contact Center CRM supporting agent operations, administrative controls, and real-time customer interaction management.
+
+**Tech Stack**: Node.js, PHP, Angular, JavaScript, WebSockets, MySQL, SQL Server, Linux
+
+* Built full-stack frontend interfaces and backend services supporting live agent operations
+
+
+* Implemented **WebSocket-based real-time communication** for sub-second event synchronization
+
+
+* Integrated 8+ omnichannel communication portals including WhatsApp, Facebook, Viber, Web Chat, and video co-browsing
+
+
+* Performed VAPT security hardening and automated deployments in Linux environments via Jenkins CI/CD
+
+
+[🔗 View Project](https://www.google.com/search?q=https://github.com/gauravspawar&utm_source=gemini)
+
+
+---
+
+### 2. 🔑 ManageCRM – Software License Management Platform
+
+**Goal**: Build a centralized full-stack CRM platform to control software activations, validity, tenant allocations, and customer records.
+
+**Tech Stack**: Node.js, PHP, Angular, MySQL, RESTful APIs
+
+* Developed license management capabilities for controlling software activation and customer-specific configurations
+
+
+* Consolidated customer records, deployed solutions, license details, and operational workflows
+
+
+* Created central administrative tools to streamline software product lifecycles
+
+
+[🔗 View Project](https://www.google.com/search?q=https://github.com/gauravspawar&utm_source=gemini)
+
+
+---
+
+### 3. 📊 CDR-Spectra – Call Detail Record (CDR) Reporting Platform
+
+**Goal**: Develop a full-stack CDR reporting platform delivering real-time call analytics and business reporting for enterprise customers.
+
+**Tech Stack**: Node.js, PHP, MySQL, PostgreSQL, SQL Server
+
+* Built configurable reporting dashboards with advanced filtering options and multi-format exports
+
+
+* **Optimized complex SQL queries and index structures** to enhance reporting responsiveness on large datasets
+
+
+* Managed multi-database integration across MySQL, PostgreSQL, and SQL Server platforms
+
+
+[🔗 View Project](https://www.google.com/search?q=https://github.com/gauravspawar&utm_source=gemini)
+
+
+---
+
+## 🏅 Education & Highlights
+
+* **Bachelor of Technology (B.Tech)** – Rajiv Gandhi Institute of Technology & Management (RGITM), 2021
+
+
+* **VAPT Security Remediation** – Hands-on experience identifying and fixing application security vulnerabilities
+
+
+* **Omnichannel Architecture** – Experience connecting unified communication networks into centralized platforms
+
+
+
+---
+
+## 📬 Let's Connect!
+
+* 📧 Email: Gauravpawar1115@gmail.com
+
+
+* 📱 Phone: +91 7290925354
+
+
+* 📍 Location: Gurgaon, Haryana, India
+
+
+* 💼 [LinkedIn](https://www.google.com/search?q=https://linkedin.com/in/gauravspawar&utm_source=gemini)
+
+* 🐙 [GitHub](https://www.google.com/search?q=https://github.com/gauravspawar&utm_source=gemini)
+
+
+---
+
+> “First, solve the problem. Then, write the code.” – John Johnson
