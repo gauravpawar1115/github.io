@@ -115,7 +115,7 @@ Hi there! I'm **Gaurav Singh Pawar**, a Full Stack Developer with **4+ years of 
 
 * 💼 [LinkedIn](https://www.linkedin.com/in/gaurav-singh-pawar-28a297174?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
-* 🐙 [GitHub](https://www.google.com/search?q=https://github.com/gauravspawar&utm_source=gemini)
+* 🐙 [GitHub](https://github.com/gauravpawar1115/github.io)
 
 
 ---
