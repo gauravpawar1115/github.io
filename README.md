@@ -1,4 +1,4 @@
-# 👨‍💻 GAURAV SINGH PAWAR - Full Stack Developer Portfolio
+# 👨‍💻 GAURAV SINGH PAWAR - Full Stack Developer
 
 Hi there! I'm **Gaurav Singh Pawar**, a Full Stack Developer with **4+ years of experience** designing, building, and maintaining enterprise applications, contact center solutions, and CRM platforms across the entire development lifecycle. I specialize in building high-availability backend architectures, real-time WebSocket applications, and responsive frontend interfaces.
 
